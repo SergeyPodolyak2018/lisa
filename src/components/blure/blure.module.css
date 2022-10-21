@@ -1,0 +1,12 @@
+.blure{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top:0;
+    background: rgba(248, 249, 251, 0.4);
+    backdrop-filter: blur(6px);
+    /* Note: backdrop-filter has minimal browser support */
+
+    border-radius: 32px;
+}

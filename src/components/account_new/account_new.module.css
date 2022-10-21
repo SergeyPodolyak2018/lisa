@@ -1,0 +1,166 @@
+.wrapper{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(248, 249, 251, 0.4);
+    backdrop-filter: blur(32px);
+    border-radius: 24px;
+    z-index: 1000;
+
+}
+.window{
+    width: 490px;
+    height: 372px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+
+    top: 18.67%;
+
+    background: #FFFFFF;
+    /* Monochrome/Dark 05 */
+
+    border: 1px solid #EEF0F6;
+    box-shadow: 1px 3px 24px rgba(82, 118, 244, 0.16);
+    border-radius: 24px;
+}
+.window2{
+    width: 490px;
+    height: 305px;
+}
+.subwrapper{
+    width: 100%;
+    height: 225px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: Poppins;
+    font-style: normal;
+
+}
+.header{
+    width: auto;
+    height: 36px;
+
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+
+
+    color: #4B4D72;
+
+    margin-top: 32px;
+}
+.subheader{
+    width: 237px;
+    height: 42px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+
+    /* Monochrome/Dark 02 */
+
+    color: #7E86A5;
+    margin-top: 16px;
+}
+.big_input_wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    width: 378px;
+    height: 168px;
+}
+.input_wrapper{
+    width: 100%;
+    height: 72px;
+    margin-top: 24px;
+
+
+
+
+
+
+}
+.input_wrapper_code{
+    width: 240px;
+    height: 72px;
+    border: 1px solid #EEF0F6;
+    box-shadow: 1px 3px 24px rgba(82, 118, 244, 0.16);
+
+
+    box-sizing: border-box;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+
+
+}
+.errorWrapper{
+    border: 1px solid #F17155;
+}
+.errormesage{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: max-content;
+    height: 15px;
+    bottom: -15px;
+
+
+    /* H12- medium 10px */
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: flex-end;
+
+    /* Accent/Red */
+
+    color: #F17155;
+}
+.buttons{
+    width: 100%;
+    height: 80px;
+    background: #F8F9FB;
+    /* Dark/Dark 05 */
+
+    border: 1px solid #EEF0F6;
+    box-sizing: border-box;
+    border-radius: 0px 0px 24px 24px;
+    display: flex;
+    align-items: center;
+}
+.ImportContainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 80px;
+}
+.buttonWrapperImport{
+    width: 92px;
+    display: flex;
+
+}
+.buttonWrapperReset{
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+}

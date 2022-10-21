@@ -1,0 +1,29 @@
+.wrapper{
+    width: max-content;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+.arrow{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.text{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    /* Dark/Dark 01 */
+
+    color: #4B4D72;
+    text-align: center;
+    margin: 0 16px;
+}

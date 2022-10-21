@@ -1,0 +1,32 @@
+{
+        "status":{"code":0},
+        "data": {
+                "pending":"27",
+                "sent":"53",
+                "success":"87%",
+                "paused":"14",
+                "series":[
+                        {
+                                "name":"“Campaign Name #1”",  
+                                "data": [10, 20, 30,40,50,60]
+                        },
+                        {
+                                "name":"“Campaign Name #2”",  
+                                "data": [11, 12, 13,34,55,76]
+                        },
+                        {
+                                "name":"“Campaign Name #3”",  
+                                "data": [21, 32, 43,54,65,76]
+                        },
+                        {
+                                "name":"“Campaign Name #4”",  
+                                "data": [81, 72, 63,54,45,36]
+                        },
+                        {
+                                "name":"“Campaign Name #5”",  
+                                "data": [1, 2, 3,4,5,6]
+                        }
+                ]
+
+        }
+}

@@ -1,0 +1,262 @@
+{
+  "status":{"code":0},
+  "data": [
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 0,
+      "id": "1"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+
+      ],
+      "status": 0,
+      "id": "2"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 1,
+      "id": "3"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 2,
+      "id": "4"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 3,
+      "id": "5"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 0,
+      "id": "6"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 0,
+      "id": "7"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 2,
+      "id": "8"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 3,
+      "id": "9"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 0,
+      "id": "10"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 1,
+      "id": "11"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 0,
+      "id": "12"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 2,
+      "id": "13"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 3,
+      "id": "14"
+
+    },
+    {
+      "name": "Campaign Name #1",
+      "description": "Short description of campaign “Campaign Name #1”",
+      "template": "Template name",
+      "date": {
+        "start": "",
+        "end": ""
+      },
+      "accounts": [
+        "5e01572e-064c-411e-881d-94b0b52c3e52",
+        "ea8d9daa-7c0c-4b1b-b91a-2547345e2337",
+        "e5add22a-c3fc-4af1-8547-87e0cee9514e"
+      ],
+      "status": 0,
+      "id": "15"
+
+    }
+
+  ]
+}

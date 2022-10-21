@@ -1,0 +1,168 @@
+.main_wrapper{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+.icon_wrapper{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	width: 44px;
+	height: calc(100% - 2px);
+	border: 1px solid #EEF0F6;
+	background: #FFFFFF;
+
+
+}
+.wrapper{
+	flex-grow: 1;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	height: 100%;
+
+	background: #FFFFFF;
+	/* Monochrome/Dark 05 */
+
+	border: 1px solid #EEF0F6;
+	box-sizing: border-box;
+	border-radius: 8px;
+	position: relative;
+	padding: 10px 16px;
+
+}
+.list_wrapper{
+
+	/*display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;*/
+	padding: 0 0 0 16px;
+	position: absolute;
+
+	height: 394px;
+	background: #FFFFFF;
+	border: 1px solid #EEF0F6;
+	box-shadow: 1px 3px 24px rgba(82, 118, 244, 0.16);
+	border-radius: 8px;
+	left: -47px;
+	bottom: -400px;
+	overflow-y: scroll;
+	width: calc(100% + 30px);
+	z-index: 1000;
+
+}
+.list_sub_wrapper{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: flex-start;
+	width: 90px;
+	height: 153px;
+	padding-top: 10px;
+}
+.list_sub_wrapper_header{
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 21px;
+	/* identical to box height */
+
+
+	/* Monochrome/Dark 01 */
+
+	color: #4B4D72;
+	width: max-content;
+}
+.check_box_group{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: space-between;
+	width: 90px;
+	height: 120px;
+}
+.person_wrapper{
+	display: flex;
+flex-direction: row;
+/*justify-content: space-between;*/
+align-items: center;
+cursor: pointer;
+	/*margin-left: 7px;*/
+	/*margin-top: 9px;*/
+}
+.person_wrapper_face{
+	margin-right: 8px;
+}
+.person_wrapper_name{
+	font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+/* Monochrome/Dark 02 */
+
+color: #7E86A5;
+
+
+}
+
+
+.placeHolder{
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 21px;
+	color: #9AA4CB;
+	position: absolute;
+	top:50%;
+	transform: translateY(-50%);
+	left: 24px;
+	pointer-events: none;
+
+}
+.placeHolder.placeholder_active{
+	top:18px;
+	transform: none;
+	font-weight: 500;
+	font-size: 10px;
+	line-height: 15px;
+
+}
+
+.placeHolder.text_area{
+	top:26px;
+}
+
+.placeHolder.placeholder_active.text_area{
+	top:18px;
+}
+
+.delimeter{
+	width: 106px;
+	height: 0px;
+	left: 0px;
+	top: 169px;
+
+	/* Monochrome/Dark 05 */
+
+	border: 1px solid #EEF0F6;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+.button_wrapper{
+	margin-top: 16px;
+	width: 114px;
+	height: 40px;
+}

@@ -1,0 +1,16 @@
+{
+        "status":0,
+        "data": {
+                "password":"jhgjhgjhgj",
+                "newPassword":"",
+                "confirmPassword":"",
+                "name":"",
+                "surname":"",
+                "email":"",
+                "phoneNumber":"",
+                "country":"",
+                "city":"",
+                "zip":"",
+                "adress":""
+        }
+}

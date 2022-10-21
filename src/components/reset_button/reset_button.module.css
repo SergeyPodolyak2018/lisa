@@ -1,0 +1,24 @@
+.button {
+    width: 146px;
+    height: 21px;
+    background: none;
+    border-radius: 8px;
+
+    border: none;
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+
+    /* Monochrome/Dark 03 */
+
+    color: #9AA4CB;
+    cursor: pointer;
+    text-decoration: underline;
+
+}

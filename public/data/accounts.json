@@ -1,0 +1,61 @@
+{
+  "status":{"code":0},
+  "data": [
+      {
+        "firstName": "Marley",
+        "id": "96ab7e5e-9649-487b-9b88-d6301ed39a0a",
+        "lastName": "Rosser",
+        "password": "8YMNyi88a",
+        "status": null,
+        "username": "diktaedua@mail.ru",
+        "img":null
+      },
+      {
+        "firstName": "Marcus",
+        "id": "96ab7e5e-9649-487b-9b88-d6301ed39a2",
+        "lastName": "Levin",
+        "password": "8YMNyi88a",
+        "status": null,
+        "username": "diktaedua@mail.ru",
+        "img":"https://media-exp1.licdn.com/dms/image/C4D03AQGy_5TkqGvKHA/profile-displayphoto-shrink_200_200/0/1621508318545?e=1639612800&v=beta&t=2kne9GHy3b7n5GMCSJroq4MIfa55qJQz6w79j8RUxIg"
+      },
+      {
+        "firstName": "Abram",
+        "id": "96ab7e5e-9649-487b-9b88-d6301ed39a3",
+        "lastName": "Septimusqweqeqeqeqew",
+        "password": "8YMNyi88a",
+        "status": null,
+        "username": "diktaedua@mail.ru",
+        "img":"/img/person3.png"
+      },
+      {
+        "firstName": "Erin",
+        "id": "96ab7e5e-9649-487b-9b88-d6301ed39a4",
+        "lastName": "Bergson",
+        "password": "8YMNyi88a",
+        "status": null,
+        "username": "diktaedua@mail.ru",
+        "img":"/img/person4.png"
+      },
+      {
+        "firstName": "Arin",
+        "id": "96ab7e5e-9649-487b-9b88-d6301ed39a5",
+        "lastName": "Mergson",
+        "password": "8YMNyi88a",
+        "status": null,
+        "username": "diktaedua@mail.ru",
+        "img":"/img/person4.png"
+      },
+      {
+        "firstName": "Ertn",
+        "id": "96ab7e5e-9649-487b-9b88-d6301ed39a6",
+        "lastName": "Belson",
+        "password": "8YMNyi88a",
+        "status": null,
+        "username": "diktaedua@mail.ru",
+        "img":"/img/person4.png"
+      }
+    ]
+
+
+}

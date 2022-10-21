@@ -1,0 +1,8 @@
+{
+  "status":{"code":0},
+  "data": [
+    {"id": "1","name": "template1"},
+    {"id": "2","name": "template2"},
+    {"id": "3","name": "template3"}
+  ]
+}

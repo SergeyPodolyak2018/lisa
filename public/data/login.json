@@ -1,0 +1,11 @@
+{
+  "status": 0,
+  "result": true,
+  "data": {
+    "id": "123",
+    "name": "Test",
+    "surname": "TEST-TEST",
+    "email": "bla.bla@bla.com"
+  }
+
+}

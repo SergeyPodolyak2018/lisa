@@ -1,0 +1,125 @@
+{
+  "status":{"code":0},
+  "data": [
+    {
+      "name": "Working weekdays",
+      "description": "Short description of schedule, include important information",
+      "period": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "days": "",
+      "id": "1"
+    },
+    {
+      "name": "Working weekdays",
+      "description": "Short description of schedule, include important information",
+      "period": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "days": "",
+      "id": "2"
+    },
+    {
+      "name": "Working weekdays",
+      "description": "Short description of schedule, include important information",
+      "period": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "days": "",
+      "id": "3"
+    },
+    {
+      "name": "Working weekdays",
+      "description": "Short description of schedule, include important information",
+      "period": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "days": "",
+      "id": "4"
+    },
+    {
+      "name": "Working weekdays",
+      "description": "Short description of schedule, include important information",
+      "period": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "days": "",
+      "id": "5"
+    },
+    {
+      "name": "Working weekdays",
+      "description": "Short description of schedule, include important information",
+      "period": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "days": "",
+      "id": "6"
+    },
+    {
+      "name": "Working weekdays",
+      "description": "Short description of schedule, include important information",
+      "period": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "days": "",
+      "id": "7"
+    },
+    {
+      "name": "Working weekdays",
+      "description": "Short description of schedule, include important information",
+      "period": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "days": "",
+      "id": "8"
+    },
+    {
+      "name": "Working weekdays",
+      "description": "Short description of schedule, include important information",
+      "period": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "days": "",
+      "id": "9"
+    },
+    {
+      "name": "Working weekdays",
+      "description": "Short description of schedule, include important information",
+      "period": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "days": "",
+      "id": "10"
+    },
+    {
+      "name": "Working weekdays",
+      "description": "Short description of schedule, include important information",
+      "period": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "days": "",
+      "id": "11"
+    },
+    {
+      "name": "Working weekdays",
+      "description": "Short description of schedule, include important information",
+      "period": {
+        "start": "10/9",
+        "end": "11/12"
+      },
+      "days": "",
+      "id": "12"
+    }
+  ]
+}

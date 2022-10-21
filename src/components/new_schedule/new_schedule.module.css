@@ -1,0 +1,151 @@
+.wrapper{
+	width: calc(100% - 96px);
+	height: 668px;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.backbutton{
+	display: flex;
+	align-items: center;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 21px;
+
+	text-decoration-line: underline;
+
+	/* Monochrome/Dark 03 */
+
+	color: #9AA4CB;
+
+
+}
+.backbutton svg{
+	margin-right: 8px;
+	cursor: pointer;
+}
+.backbutton span{
+	margin-right: 8px;
+	cursor: pointer;
+}
+
+.start_day{
+	width: calc(50% - 12px);
+	height: 72px;
+}
+.header_wrapper{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	height: 48px;
+	margin-top: 48px;
+}
+.header_input_wrapper{
+	width: 268px;
+	height: 48px;
+}
+.save_button{
+	width: 110px;
+	height: 48px;
+}
+.field_wrapper{
+	width: 100%;
+	height: 500px;
+	display: flex;
+	margin-top: 48px;
+	align-items: center;
+	justify-content: space-between;
+}
+.section{
+	width: calc(50% - 20px);
+	height: 100%;
+	display: flex;
+	align-items: center;
+
+	flex-direction: column;
+}
+.right{
+	height: 238px;
+	align-self: flex-start;
+}
+.subsectionrigh{
+	height: 218px;
+	width: 100%;
+
+}
+.subsection{
+	width: 100%;
+	height: 218px;
+	display: flex;
+
+	flex-direction: column;
+	justify-content: space-between;
+}
+.subsection2{
+	width: 100%;
+	height: 146px;
+	display: flex;
+
+	flex-direction: column;
+	justify-content: space-between;
+}
+.subsectionrigh{
+	display: flex;
+
+	flex-direction: column;
+	justify-content: space-between;
+}
+.section_name{
+	width: 240px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+
+	/* H11 - semibold 12 px */
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 12px;
+	line-height: 18px;
+	/* identical to box height */
+
+	text-transform: uppercase;
+
+	/* Monochrome/Dark 02 */
+
+	color: #7E86A5;
+
+
+}
+
+.field_sub_wrapper{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0px;
+
+	position: static;
+	width: 100%;
+	height: 72px;
+}
+.field_sub_wrapper.short{
+	width: calc(50% - 12px);
+}
+.days_wrapper{
+	width: 100%;
+	height: 48px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+}
+.big_input_wrapper{
+	width: 100%;
+	height: 168px;
+}

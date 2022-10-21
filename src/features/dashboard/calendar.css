@@ -1,0 +1,21 @@
+.fc .fc-daygrid-day-top{
+	flex-direction: row!important;
+	font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+text-align: center;
+
+/* Monochrome/Dark 03 */
+
+color: #9AA4CB;
+}
+.fc-scrollgrid.fc-scrollgrid-liquid{
+	border-radius: 12px;
+}
+.fc-scrollgrid-section.fc-scrollgrid-section-body.fc-scrollgrid-section-liquid td{
+	border-radius: 12px;
+}

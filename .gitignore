@@ -1,0 +1,25 @@
+# Don't check auto-generated stuff into git
+coverage
+build
+reports
+node_modules
+productionBuild
+showcaseBuild
+!typings
+typings/*
+!typings/tslint.json
+!/typings/fixed/
+!/typings/untyped/
+stats.json
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+.awcache
+/reports
+storybook-static
+/yarn-error.log
+/.vscode/settings.json
+.scannerwork
+sonar-scanner-3.2.0.1227-linux

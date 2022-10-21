@@ -1,0 +1,23 @@
+.wrapper{
+    width: 141px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+}
+.icon_wrapper{
+    margin-left: 24px;
+}
+.content_wrapper{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.02em;
+    color: #9AA4CB;
+    margin-left: 16px;
+}

@@ -1,0 +1,36 @@
+.person_wrapper{
+    display: flex;
+    flex-direction: row;
+    /*justify-content: space-between;*/
+    align-items: center;
+    cursor: pointer;
+    position: relative;
+
+}
+.person_wrapper_face{
+    margin-right: 8px;
+}
+.person_wrapper_name{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    /* Monochrome/Dark 02 */
+
+    color: #7E86A5;
+
+
+}
+.crossButton{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
